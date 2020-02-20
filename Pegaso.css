@@ -1,0 +1,19 @@
+body{
+   
+    
+    }
+.ParteArriba{
+    color: rgb(255, 255, 255);
+    background-color: rgb(58, 58, 58);
+    font-family: arial, verdana, sans-serif;
+    border: 3px solid;
+    padding: 20px;
+    text-align: justify;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.UsuarioArriba{
+    border:1px solid;
+    border-color: red;
+}
